@@ -236,3 +236,9 @@ INFO  01:29:12 Application started. Press Ctrl+C to shut down.
 INFO  01:29:12 Hosting environment: Development
 INFO  01:29:12 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI\CustomerAPI
 INFO  01:31:27 Register customer is invoked
+INFO  01:41:25 Now listening on: https://localhost:5001
+INFO  01:41:25 Now listening on: http://localhost:5000
+INFO  01:41:25 Application started. Press Ctrl+C to shut down.
+INFO  01:41:25 Hosting environment: Development
+INFO  01:41:25 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI\CustomerAPI
+INFO  01:42:38 Register customer is invoked
