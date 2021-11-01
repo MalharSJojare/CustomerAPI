@@ -1,0 +1,238 @@
+INFO  07:38:18 Application started. Press Ctrl+C to shut down.
+INFO  07:38:18 Hosting environment: Development
+INFO  07:38:18 Content root path: D:\CustomerAPI\CustomerAPI
+INFO  07:38:28  Http Get Request for Drug Details by Location and ID
+INFO  07:40:00 Application started. Press Ctrl+C to shut down.
+INFO  07:40:00 Hosting environment: Development
+INFO  07:40:00 Content root path: D:\CustomerAPI\CustomerAPI
+INFO  07:40:09  Http Get Request for Drug Details by Location and ID
+INFO  07:49:14  Http Get Request for Drug Details by Location and ID
+INFO  07:49:14  Http Get Request for Drug Details by Location and ID
+INFO  10:26:52 Application started. Press Ctrl+C to shut down.
+INFO  10:26:52 Hosting environment: Development
+INFO  10:26:52 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\Cakeproj api\CustomerAPI\CustomerAPI
+INFO  10:27:09 Customer login is invoked
+INFO  11:24:12 REgister customer is invoked
+INFO  11:24:22 Customer login is invoked
+INFO  11:27:42 Application started. Press Ctrl+C to shut down.
+INFO  11:27:42 Hosting environment: Development
+INFO  11:27:42 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\Cakeproj api\CustomerAPI\CustomerAPI
+INFO  11:28:12 Customer login is invoked
+INFO  11:29:26 Customer login is invoked
+INFO  11:31:07 Application started. Press Ctrl+C to shut down.
+INFO  11:31:07 Hosting environment: Development
+INFO  11:31:07 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\Cakeproj api\CustomerAPI\CustomerAPI
+INFO  11:38:10 REgister customer is invoked
+INFO  11:39:40 Application started. Press Ctrl+C to shut down.
+INFO  11:39:40 Hosting environment: Development
+INFO  11:39:40 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\Cakeproj api\CustomerAPI\CustomerAPI
+INFO  11:40:24 REgister customer is invoked
+INFO  11:41:44 REgister customer is invoked
+INFO  11:41:58 Customer login is invoked
+INFO  11:44:51 Customer login is invoked
+INFO  11:46:09 Customer login is invoked
+INFO  11:46:16 Get Customer by 105 is invoked
+INFO  11:46:23 Update is invoked
+INFO  11:46:25 Get Customer by 105 is invoked
+INFO  11:52:00 Application started. Press Ctrl+C to shut down.
+INFO  11:52:00 Hosting environment: Development
+INFO  11:52:00 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\Cakeproj api\CustomerAPI\CustomerAPI
+INFO  11:53:04 Customer login is invoked
+INFO  11:57:58 Customer login is invoked
+INFO  12:00:49 Customer login is invoked
+INFO  12:01:14 Customer login is invoked
+INFO  12:01:51 Customer login is invoked
+INFO  12:02:12 Customer login is invoked
+INFO  12:05:17 Customer login is invoked
+INFO  12:08:53 Customer login is invoked
+INFO  12:11:17 Customer login is invoked
+INFO  12:13:03 Customer login is invoked
+INFO  12:13:13 Customer login is invoked
+INFO  12:14:46 Get Customer by 102 is invoked
+INFO  05:21:13 Application started. Press Ctrl+C to shut down.
+INFO  05:21:13 Hosting environment: Development
+INFO  05:21:13 Content root path: C:\Users\Administrator\Documents\Project\Cakestore-v2-main\CustomerAPI\CustomerAPI
+INFO  05:21:49 Customer login is invoked
+INFO  05:22:21 Customer login is invoked
+INFO  05:24:01 Customer login is invoked
+INFO  05:26:45 Customer login is invoked
+INFO  05:50:23 Customer login is invoked
+INFO  05:55:21 Customer login is invoked
+INFO  05:58:38 Customer login is invoked
+INFO  11:27:05 Customer login is invoked
+INFO  11:35:27 Customer login is invoked
+INFO  11:45:19 REgister customer is invoked
+INFO  11:45:30 Customer login is invoked
+INFO  11:47:44 Customer login is invoked
+INFO  11:10:50 Application started. Press Ctrl+C to shut down.
+INFO  11:10:50 Hosting environment: Development
+INFO  11:10:50 Content root path: C:\Users\Administrator\Documents\Project\Cakestore-v2-main\CustomerAPI\CustomerAPI
+INFO  11:12:27 Customer login is invoked
+INFO  11:13:06 Customer login is invoked
+INFO  05:08:21 Application started. Press Ctrl+C to shut down.
+INFO  05:08:21 Hosting environment: Development
+INFO  05:08:21 Content root path: C:\Users\Administrator\Documents\Project\Cakestore-v2-main\CustomerAPI\CustomerAPI
+INFO  05:08:31 Customer login is invoked
+INFO  05:27:29 Customer login is invoked
+INFO  05:38:04 REgister customer is invoked
+INFO  05:38:14 Customer login is invoked
+INFO  05:50:40 Customer login is invoked
+INFO  10:45:53 Customer login is invoked
+INFO  10:47:12 Customer login is invoked
+INFO  10:48:41 Get Customer by 1 is invoked
+INFO  10:49:41 Customer login is invoked
+INFO  10:50:10 Customer login is invoked
+INFO  10:51:39 Customer login is invoked
+INFO  10:57:32 Customer login is invoked
+INFO  10:58:25 Customer login is invoked
+INFO  11:05:28 Customer login is invoked
+INFO  11:07:31 Customer login is invoked
+INFO  11:07:33 Customer login is invoked
+INFO  11:07:49 Customer login is invoked
+INFO  11:07:57 Customer login is invoked
+INFO  11:09:15 Customer login is invoked
+INFO  11:09:37 Customer login is invoked
+INFO  11:10:00 Customer login is invoked
+INFO  11:10:02 Customer login is invoked
+INFO  11:11:29 Customer login is invoked
+INFO  11:11:32 Customer login is invoked
+INFO  11:14:44 Customer login is invoked
+INFO  11:26:46 Customer login is invoked
+INFO  11:29:22 Customer login is invoked
+INFO  11:41:13 Customer login is invoked
+INFO  12:03:04 REgister customer is invoked
+INFO  09:20:22 REgister customer is invoked
+INFO  09:21:13 Customer login is invoked
+INFO  09:21:28 Customer login is invoked
+INFO  09:21:44 Customer login is invoked
+INFO  09:15:24 Customer login is invoked
+INFO  09:16:13 REgister customer is invoked
+INFO  09:16:28 Customer login is invoked
+INFO  09:28:51 Customer login is invoked
+INFO  09:29:20 Customer login is invoked
+INFO  09:32:38 Customer login is invoked
+INFO  11:24:59 Customer login is invoked
+INFO  11:25:44 Customer login is invoked
+INFO  11:31:36 Customer login is invoked
+INFO  11:35:41 Customer login is invoked
+INFO  11:49:58 Customer login is invoked
+INFO  11:51:18 Customer login is invoked
+INFO  11:52:50 Customer login is invoked
+INFO  11:55:29 Customer login is invoked
+INFO  12:02:18 Customer login is invoked
+INFO  12:05:08 Customer login is invoked
+INFO  12:08:15 Customer login is invoked
+INFO  12:14:01 Customer login is invoked
+INFO  12:15:39 Customer login is invoked
+INFO  12:16:37 Customer login is invoked
+INFO  12:19:16 Customer login is invoked
+INFO  12:19:33 Customer login is invoked
+INFO  12:21:50 Customer login is invoked
+INFO  12:26:08 Customer login is invoked
+INFO  12:30:56 Customer login is invoked
+INFO  12:41:02 Customer login is invoked
+INFO  12:41:11 Customer login is invoked
+INFO  12:58:44 Customer login is invoked
+INFO  12:58:52 Customer login is invoked
+INFO  01:06:51 Customer login is invoked
+INFO  01:10:23 Customer login is invoked
+INFO  01:10:39 Customer login is invoked
+INFO  04:24:23 Customer login is invoked
+INFO  04:44:07 Customer login is invoked
+INFO  04:45:23 Customer login is invoked
+INFO  08:51:19 Application started. Press Ctrl+C to shut down.
+INFO  08:51:19 Hosting environment: Development
+INFO  08:51:19 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI-Azure--main\CustomerAPI
+INFO  08:53:39 REgister customer is invoked
+INFO  08:53:54 Get Customer by 101 is invoked
+INFO  08:54:21 Delete customer by 101 is invoked
+INFO  08:54:50 Delete customer by 103 is invoked
+INFO  08:54:55 Delete customer by 104 is invoked
+INFO  08:55:04 Delete customer by 105 is invoked
+INFO  08:55:40 REgister customer is invoked
+INFO  08:55:48 REgister customer is invoked
+INFO  08:56:13 REgister customer is invoked
+INFO  08:57:37 Get Customer by 102 is invoked
+INFO  09:04:08 Register customer is invoked
+INFO  09:06:44 Application started. Press Ctrl+C to shut down.
+INFO  09:06:44 Hosting environment: Development
+INFO  09:06:44 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI-Azure--main\CustomerAPI
+INFO  09:07:38 Register customer is invoked
+INFO  09:08:05 Register customer is invoked
+INFO  12:47:04 Application started. Press Ctrl+C to shut down.
+INFO  12:47:04 Hosting environment: Development
+INFO  12:47:04 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI-Azure--main\CustomerAPI
+INFO  12:48:18 Get Customer by 106 is invoked
+INFO  12:53:02 Update is invoked
+INFO  12:57:17 Update is invoked
+INFO  12:58:47 Update is invoked
+INFO  04:52:00 Application started. Press Ctrl+C to shut down.
+INFO  04:52:00 Hosting environment: Development
+INFO  04:52:00 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI\CustomerAPI
+INFO  04:55:23 Get Customer by 106 is invoked
+INFO  11:06:59 Application started. Press Ctrl+C to shut down.
+INFO  11:06:59 Hosting environment: Development
+INFO  11:06:59 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI\CustomerAPI
+INFO  12:52:07 Register customer is invoked
+INFO  01:39:35 Customer login is invoked
+INFO  05:36:59 Customer login is invoked
+INFO  01:31:15 Application started. Press Ctrl+C to shut down.
+INFO  01:31:15 Hosting environment: Development
+INFO  01:31:15 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI\CustomerAPI
+FATAL 01:16:53 Unable to start Kestrel.
+System.IO.IOException: Failed to bind to address https://127.0.0.1:5001: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass29_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IEnumerable`1 listenOptions, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+INFO  01:26:04 Now listening on: https://localhost:5001
+INFO  01:26:05 Now listening on: http://localhost:5000
+INFO  01:26:05 Application started. Press Ctrl+C to shut down.
+INFO  01:26:05 Hosting environment: Development
+INFO  01:26:05 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI\CustomerAPI
+FATAL 01:28:19 Unable to start Kestrel.
+System.IO.IOException: Failed to bind to address http://127.0.0.1:5000: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass29_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IEnumerable`1 listenOptions, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+INFO  01:29:11 Now listening on: https://localhost:5001
+INFO  01:29:12 Now listening on: http://localhost:5000
+INFO  01:29:12 Application started. Press Ctrl+C to shut down.
+INFO  01:29:12 Hosting environment: Development
+INFO  01:29:12 Content root path: C:\Users\Administrator\Downloads\NewChecker\CustomerAPI\CustomerAPI
+INFO  01:31:27 Register customer is invoked
