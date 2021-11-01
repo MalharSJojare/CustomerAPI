@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using CustomerAPI.CakeModel;
+using CustomerAPI.CakeModel1;
 using CustomerAPI.Repository;
 
 using NUnit.Framework;
